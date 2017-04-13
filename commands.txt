@@ -20,3 +20,5 @@ git clone https://github.com/niknorf/lab4.git
 git checkout -b b1
 
 git checkout -b b2
+
+git checkout master
