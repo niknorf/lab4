@@ -22,3 +22,5 @@ git checkout -b b1
 git checkout -b b2
 
 git checkout master
+
+git branch
