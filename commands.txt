@@ -1,0 +1,24 @@
+﻿ssh-keygen -t rsa -b 4096 -C "your_email@example.com"
+
+SHA256:Q6O4EWddqsIKvpdMALAZyvMQYsC+hdDB10+j3hOU2No niknorff@gmail.com
+
+
+git init
+
+git add .
+
+git commit -m "Cat commit"
+
+git remote add origin https://github.com/niknorf/lab4.git
+
+git remote -v
+
+git push origin master
+
+git clone https://github.com/niknorf/lab4.git
+
+git checkout -b b1
+
+git checkout -b b2
+
+git checkout master
